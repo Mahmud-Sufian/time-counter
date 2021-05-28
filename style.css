@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body { 
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(images/we.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+    padding: 100px;
+    height: 100vh;
+}
+.bg-box{
+    border-bottom: 2px solid salmon;
+    /* background-image:linear-gradient(90deg, salmon, tomato); */
+   /* opacity: 0.7; */
+   /* position: relative; */
+   /* background: transparent; */
+}
+/* .box-1, .box-2, .box-3, .box-4{
+    background-color: rgb(73, 83, 92);
+    height: 120px;
+    width: 120px;
+    margin: 10px;
+    opacity: 0.5;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+article{
+    border-left: 20px solid rgb(133, 64, 57);
+}
+ 
